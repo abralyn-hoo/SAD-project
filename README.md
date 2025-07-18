@@ -26,8 +26,8 @@ All tasks are divided and assigned via [GitHub Issues](https://github.com/abraly
 | Phase | Week | Status |
 |-------|------|--------|
 | Phase 1: Planning | Week 1–2 | ✅ Completed |
-| Phase 2: Requirement Analysis | Week 3–4 | 🟡 In Progress |
-| Phase 3: System Design | Week 5 | 🔜 Upcoming |
+| Phase 2: Requirement Analysis | Week 3–4 | ✅ Completed |
+| Phase 3: System Design | Week 5 | ✅ Completed |
 
 ## Prototype
 1. Prototype Link for Admin Web System
