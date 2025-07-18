@@ -58,4 +58,4 @@ https://www.youtube.com/watch?v=Xhq1HhnsI4g
 ---
 
 ## 📞 Contact
-For questions about this project, please contact **Group Leader: Abralyn (永恩)** or open an issue in this repo.
+For questions about this project, please contact **Group Leader: Abralyn** or open an issue in this repo.
