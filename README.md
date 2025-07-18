@@ -17,8 +17,17 @@ This is a digital order and inventory management system for Xiang En Hamper Trad
 - Jiarong
 - Yii Jia
 
-## 📅 Progress Tracking
-We use GitHub commits and issues to track each task and update.
+## 🚧 Project Progress (Tracked via Issues & Project Board)
+
+All tasks are divided and assigned via [GitHub Issues](../../issues) and tracked in the [Project Board](../../projects).
+
+## 📅 Timeline
+
+| Phase | Week | Status |
+|-------|------|--------|
+| Phase 1: Planning | Week 1–2 | ✅ Completed |
+| Phase 2: Requirement Analysis | Week 3–4 | 🟡 In Progress |
+| Phase 3: System Design | Week 5 | 🔜 Upcoming |
 
 ## Prototype
 1. Prototype Link for Admin Web System
