@@ -19,7 +19,7 @@ This is a digital order and inventory management system for Xiang En Hamper Trad
 
 ## 🚧 Project Progress (Tracked via Issues & Project Board)
 
-All tasks are divided and assigned via [GitHub Issues](../../issues) and tracked in the [Project Board](../../projects).
+All tasks are divided and assigned via [GitHub Issues]([../../issues](https://github.com/abralyn-hoo/SAD-project/issues)) and tracked in the [Project Board](../../projects).
 
 ## 📅 Timeline
 
