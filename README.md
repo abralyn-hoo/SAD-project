@@ -11,13 +11,11 @@ This is a digital order and inventory management system for Xiang En Hamper Trad
 
 ## 👨‍👩‍👧‍👦 Team Members
 - Abralyn（leader）
-- Huey Ting
+- Huey Ting 
 - Siew Ching
 - Souh xin
 - Jiarong
 - Yii Jia
-
----
 
 ## 📂 Document Structure
 
@@ -30,7 +28,6 @@ This repository includes:
 - ✅ `PERT / WBS / Gantt Charts`
 - ✅ `Final Report`
 
----
 
 ## 🚧 Project Progress (Tracked via Issues & Project Board)
 
@@ -44,7 +41,6 @@ All tasks are divided and assigned via [GitHub Issues](https://github.com/abraly
 | Phase 2: Requirement Analysis | Week 3–4 | ✅ Completed |
 | Phase 3: System Design | Week 5 | ✅ Completed |
 
----
 
 ## Prototype
 1. Prototype Link for Admin Web System
