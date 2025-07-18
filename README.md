@@ -9,17 +9,6 @@ This is a digital order and inventory management system for Xiang En Hamper Trad
 - Customer order management
 - Admin and staff login system
 
-## 🧠 Technologies Used
-- C++ (OOP concepts)
-- File I/O for data storage
-- UML-based system design
-
-## 🚀 How to Run
-1. Open the project in Code::Blocks / Dev-C++ / VS Code
-2. Compile `main.cpp`
-3. Run the executable
-4. Follow the menu options to manage products/orders/staff
-
 ## 👨‍👩‍👧‍👦 Team Members
 - Abralyn（leader）
 - Huey Ting
